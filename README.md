@@ -1,2 +1,2 @@
 # Titanic
-Using Titanic dataset we have to give information about how many people alive 
+Using Titanic dataset to give information about how many people alive 
